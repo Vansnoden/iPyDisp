@@ -4,6 +4,8 @@ A Software to Simulate and Understand Insect Movements over time and space. iPyD
 
 ## Getting the application
 
+* You can get the desktop app executable in the ***output*** folder (iPyDisp.exe)
+
 * You can also download the desktop application executable <a href="https://drive.google.com/file/d/1uN8i9JViNPjk2QEBuSidXY4bx8zsMV_L/view?usp=sharing"> here </a>
 
 * To build the executable by your self you can use ***auto-py-to-exe***, more details on how to use it can b found <a href="https://github.com/brentvollebregt/auto-py-to-exe">here</a>.
